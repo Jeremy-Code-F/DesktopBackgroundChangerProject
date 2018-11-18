@@ -1,0 +1,9 @@
+C:\Users\super\Coding\C++\Ch18_HW\DesktopBackgroundUpdater\DesktopBackgroundUpdater\bin\Debug\DesktopBackgroundUpdater.exe.config
+C:\Users\super\Coding\C++\Ch18_HW\DesktopBackgroundUpdater\DesktopBackgroundUpdater\bin\Debug\DesktopBackgroundUpdater.exe
+C:\Users\super\Coding\C++\Ch18_HW\DesktopBackgroundUpdater\DesktopBackgroundUpdater\bin\Debug\DesktopBackgroundUpdater.pdb
+C:\Users\super\Coding\C++\Ch18_HW\DesktopBackgroundUpdater\DesktopBackgroundUpdater\obj\Debug\DesktopBackgroundUpdater.csprojResolveAssemblyReference.cache
+C:\Users\super\Coding\C++\Ch18_HW\DesktopBackgroundUpdater\DesktopBackgroundUpdater\obj\Debug\DesktopBackgroundUpdater.exe
+C:\Users\super\Coding\C++\Ch18_HW\DesktopBackgroundUpdater\DesktopBackgroundUpdater\obj\Debug\DesktopBackgroundUpdater.pdb
+C:\Users\super\Coding\DesktopBackgroundUpdater\DesktopBackgroundUpdater\bin\Debug\DesktopBackgroundUpdater.exe.config
+C:\Users\super\Coding\DesktopBackgroundUpdater\DesktopBackgroundUpdater\obj\Debug\DesktopBackgroundUpdater.exe
+C:\Users\super\Coding\DesktopBackgroundUpdater\DesktopBackgroundUpdater\obj\Debug\DesktopBackgroundUpdater.pdb
